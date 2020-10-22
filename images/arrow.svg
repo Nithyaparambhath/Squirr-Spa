@@ -1,0 +1,12 @@
+<svg id="left-arrow" xmlns="http://www.w3.org/2000/svg" width="13.582" height="11.281" viewBox="0 0 13.582 11.281">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_22" data-name="Group 22" transform="translate(0 0)">
+    <path id="Path_119" data-name="Path 119" class="cls-1" d="M.763,46.249l-.021,0H9.831L6.973,43.391a.75.75,0,0,1,0-1.055l.445-.445a.744.744,0,0,1,1.05,0l4.9,4.9a.749.749,0,0,1,0,1.053l-4.9,4.9a.744.744,0,0,1-1.05,0l-.445-.445a.736.736,0,0,1-.217-.525.714.714,0,0,1,.217-.515l2.889-2.879H.753A.77.77,0,0,1,0,47.613v-.629A.755.755,0,0,1,.763,46.249Z" transform="translate(0 -41.674)"/>
+  </g>
+</svg>

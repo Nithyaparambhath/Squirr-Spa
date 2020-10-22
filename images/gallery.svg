@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.718" height="32.118" viewBox="0 0 38.718 32.118">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="gallery" transform="translate(0 -43.636)">
+    <g id="Group_15" data-name="Group 15" transform="translate(0 49.796)">
+      <g id="Group_14" data-name="Group 14" transform="translate(0 0)">
+        <path id="Path_115" data-name="Path 115" class="cls-1" d="M31.238,125.091H1.32A1.32,1.32,0,0,0,0,126.411v23.319a1.32,1.32,0,0,0,1.32,1.32H31.238a1.32,1.32,0,0,0,1.32-1.32V126.411A1.32,1.32,0,0,0,31.238,125.091Zm-1.32,23.319H2.64V127.731H29.918Z" transform="translate(0 -125.091)"/>
+      </g>
+    </g>
+    <g id="Group_17" data-name="Group 17" transform="translate(9.591 54.108)">
+      <g id="Group_16" data-name="Group 16" transform="translate(0 0)">
+        <path id="Path_116" data-name="Path 116" class="cls-1" d="M130.532,182.115a3.7,3.7,0,1,0,3.7,3.7A3.7,3.7,0,0,0,130.532,182.115Zm0,4.751a1.056,1.056,0,1,1,1.056-1.055A1.057,1.057,0,0,1,130.532,186.866Z" transform="translate(-126.836 -182.115)"/>
+      </g>
+    </g>
+    <g id="Group_19" data-name="Group 19" transform="translate(5.456 58.771)">
+      <g id="Group_18" data-name="Group 18" transform="translate(0 0)">
+        <path id="Path_117" data-name="Path 117" class="cls-1" d="M93.546,254.428,87.21,244.4a1.32,1.32,0,0,0-2.125-.145l-4.846,5.755-2.088-1.492a1.319,1.319,0,0,0-1.845.313l-3.916,5.544a1.32,1.32,0,0,0,1.078,2.081H92.43a1.32,1.32,0,0,0,1.116-2.025Zm-17.53-.615,1.68-2.378,2,1.429a1.322,1.322,0,0,0,1.777-.224l4.469-5.307,4.093,6.481H76.015Z" transform="translate(-72.147 -243.782)"/>
+      </g>
+    </g>
+    <g id="Group_21" data-name="Group 21" transform="translate(5.72 43.636)">
+      <g id="Group_20" data-name="Group 20" transform="translate(0 0)">
+        <path id="Path_118" data-name="Path 118" class="cls-1" d="M107.314,43.636H76.956a1.32,1.32,0,0,0-1.32,1.32v6.16h2.64v-4.84h27.718V67h-4.752v2.64h6.072a1.32,1.32,0,0,0,1.32-1.32V44.956A1.32,1.32,0,0,0,107.314,43.636Z" transform="translate(-75.636 -43.636)"/>
+      </g>
+    </g>
+  </g>
+</svg>
