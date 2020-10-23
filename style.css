@@ -1444,8 +1444,20 @@ height: 356px
     border: solid 1px #ffcd9b;
 }
 .heading h2 {
-    font-size: 28px;
+    font-size: 30px;
 }
+	.headingg h2 {
+    font-size: 30px;
+}
+	.details img {
+		width: 56%;
+	}
+	.middle-right-content img {
+		width: 46%;
+	}
+	.box-content p{
+		font-size: 10px;
+	}
 }
 @media (max-width:800px) {
 
