@@ -1301,6 +1301,9 @@ ul.nav  li a {
     width: 233px;
     height: 389px;
 }
+	.right-content img {
+		width: 37%;
+	}
 	.details h3 {
 		font-size: 21px;
 	}
