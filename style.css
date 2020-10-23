@@ -922,12 +922,8 @@ ul.nav  li a {
     left: -5%;
     bottom: 47%;
 }
-.pages-left-img{
-        height: 136vh;
-    }
-    .pages-right-img,.pages-right-img1,.pages-right-img2{
-        height: 136vh;
-    }
+
+    
 	.about-section {
     padding: 8em 0 0 0;
 }	
