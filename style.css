@@ -120,19 +120,19 @@ ul.navbar-nav li {
 
 .semi-circle {
     background: #fdd18c;
-    height: 700px;
-    width: 700px;
+    height: 600px;
+    width: 600px;
     border-radius: 50%;
     position: absolute;
     left: 55%;
 }
 .semi-circle1 {
     background: #fdd18c;
-    height: 457px;
-    width: 449px;
+    height: 300px;
+    width: 300px;
     border-radius: 50%;
     position: absolute;
-    left: -4%;
+    left: -14%;
     bottom: 68%;
 }
 
