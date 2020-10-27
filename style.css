@@ -568,6 +568,7 @@ margin: 0px auto;
     text-transform: uppercase;
     font-weight: 500;
     line-height: 1.25;
+	margin-bottom: 0px;
 }
 .team-grid p {
     color: #777;
