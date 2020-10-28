@@ -1846,7 +1846,10 @@ height: 356px
         padding: 1em;
         
     }
-    
+    p.info {
+   
+    font-size: 14px;
+}
     .content-right {
         padding: 4em 0em 0 68px;
         height: 879px;
