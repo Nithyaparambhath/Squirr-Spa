@@ -190,7 +190,7 @@ td,tr {
 }
 td,tr {
     /* padding: 8px 8em 1em 0; */
-    font-size: 32px;
+    font-size: 27px;
     line-height: 1.22;
     letter-spacing: normal;
     text-align: left;
@@ -1908,7 +1908,31 @@ height: 356px
 	height: 69vh;	
 	}
 	
-	
+	.details p {
+    width: 100%;
+	}
+	.details img {
+    width: 47%;
+}
+	.w3l-specifications-9 h3.title-spe {
+    
+    font-size: 46px;
+	}
+	.w3l-specifications-9 .grids-speci1 p {
+    font-size: 22px;
+	}
+	.plan h2 {
+   
+    font-size: 38px;
+	}
+	.plan h6 {
+   
+    font-size: 16px; 
+   
+}
+	.plan p {
+    font-size: 16px;
+	}
     .pages-right-img,.pages-right-img1,.pages-right-img2 {
         height: 77vh;
     }
