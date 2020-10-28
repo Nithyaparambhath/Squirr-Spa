@@ -1850,6 +1850,10 @@ height: 356px
    
     font-size: 14px;
 }
+	td, tr {
+    
+    font-size: 19px;
+	}
     .content-right {
         padding: 4em 0em 0 68px;
         height: 879px;
