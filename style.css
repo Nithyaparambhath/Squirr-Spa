@@ -1956,6 +1956,10 @@ height: 356px
     padding: 6em 1em;
    
 }
+	.address span, .email span {
+   
+    font-size: 17px;
+}
 }
 @media (max-width:480px) {
     .foot2 img {
