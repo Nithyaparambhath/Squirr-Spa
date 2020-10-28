@@ -879,8 +879,8 @@ ul.nav  li a {
 }
 .semi-circle {
     background: #fdd18c;
-    height: 800px;
-    width: 800px;
+   height: 400px;
+width: 400px;
     border-radius: 50%;
     position: absolute;
     left: 55%;
