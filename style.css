@@ -1967,6 +1967,9 @@ height: 356px
         width: 53%;
         bottom: 0%;
     }
+	.address span, .email span {
+    font-size: 14px;
+}
     .ser-conetnt-left {
         width: 100%;
     }
