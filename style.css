@@ -1846,6 +1846,9 @@ height: 356px
         padding: 1em;
         
     }
+	.para-sect {
+    margin: 1em 0em 0em 0em;
+}
     p.info {
    
     font-size: 14px;
