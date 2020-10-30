@@ -1998,6 +1998,13 @@ height: 356px
     .pages-right-img,.pages-right-img1,.pages-right-img2 {
         height: 62vh;
     }
+	.review {
+    margin: 4em 1em 0em 0em;
+}
+	.para-sect {
+    margin: 1em 0em 0em 0em;
+}
+	
     .semi-circle1 {
     background: #fdd18c;
     height: 296px;
@@ -2159,6 +2166,15 @@ height: 356px
         position: absolute;
         left: 48%;
     }
+	.plan h6 {
+    font-size: 10px;
+}
+	.plan h2 {
+    font-size: 24px;
+}
+	.plan img {
+		width: 100%;
+	}
     ul.nav li a {
         font-size: 10px;
         margin: 0 13px;
@@ -2294,8 +2310,8 @@ height: 356px
     font-size: 39px;
 }
 p.info {
-    
-    font-size: 16px;
+    font-size: 12px;
+    width: 100%;
 }
 }
 
